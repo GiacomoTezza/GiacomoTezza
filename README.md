@@ -44,3 +44,14 @@ Thanks for visiting my GitHub profile, and I look forward to sharing this incred
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
+
+---
+
+### My Stats:
+<div align=center>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GiacomoTezza&theme=github-dark-blue)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoTezza&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
